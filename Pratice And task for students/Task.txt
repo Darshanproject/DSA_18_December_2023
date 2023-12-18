@@ -1,0 +1,22 @@
+
+Certainly! Here's a basic-level task in C language that involves if-else statements and loops:
+
+Task: Simple Calculator
+
+Write a C program that acts as a simple calculator. The program should:
+
+1).Display a menu with the following options:
+
+Addition
+Subtraction
+Multiplication
+Division
+Exit
+2).Take user input to choose an option from the menu.
+
+3).If the user chooses addition, subtraction, multiplication, or division, the program should prompt the user to enter two numbers.
+
+4).Perform the selected operation and display the result.
+
+5).If the user chooses the "Exit" option, the program should terminate.
+
